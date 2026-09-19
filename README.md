@@ -3,11 +3,12 @@
 # 宫帅 · Gong Shuai
 
 **独立创始人 · 全栈开发者**
-「AI智库 · 智影科技」主理人
+「AI智库 · 智影科技」主理人 · 前腾讯大辽网项目负责人 · 工信部认证高级 AI 工程师 ×4
 
 一个人 + 一群 AI Agent，把产品从想法做到商用。
 
 [![个人官网](https://img.shields.io/badge/个人官网-gongshuai.me-blue)](https://gongshuai.me)
+[![百度百科](https://img.shields.io/badge/百度百科-宫帅-3066b8)](https://baike.baidu.com/item/%E5%AE%AB%E5%B8%85/2619183)
 [![AI智库](https://img.shields.io/badge/AI智库-ai--zhiku.com-007ec6)](https://ai-zhiku.com)
 [![开源](https://img.shields.io/badge/开源-zhiying--skills-brightgreen)](https://github.com/zhiyingstudio/zhiying-skills)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://github.com/zhiyingstudio/zhiying-skills/blob/main/LICENSE)
