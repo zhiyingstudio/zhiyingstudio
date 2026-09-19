@@ -16,14 +16,16 @@
 
 ---
 
-## 🚀 在做的产品
+## 🚀 产品矩阵
 
-| 产品 | 说明 | 状态 |
+| 产品 | 说明 | 链接 |
 | --- | --- | --- |
-| **智库妙影** | AI 数字人 SaaS：声音克隆 + 形象克隆 + 文案成片全链路，Electron 桌面端 + 小程序双端 | 已商用 |
-| **智库创课** | 教师的 AI 课件工作台，Electron 桌面端，素材全本地不上云 | v1.0.x 迭代中 |
+| **智库妙影** | AI 数字人短视频创作平台：声音克隆 + 形象克隆 + 文案成片全链路，桌面端 + 小程序双端 | [my.ai-zhiku.com](https://my.ai-zhiku.com) |
+| **智库创课** | AI 驱动的课件生成工坊，Electron 桌面端，素材全本地不上云 | [ke.ai-zhiku.com](https://ke.ai-zhiku.com) |
+| **智库GEO** | AI 搜索品牌可见度监测平台 | [geo.ai-zhiku.com](https://geo.ai-zhiku.com) |
+| **智库妙鉴** | 命理分析站点（Next.js 全栈） | [mj.ai-zhiku.com](https://mj.ai-zhiku.com) |
 | **AI智库** | AI 行业资讯站，每日自动化同步 | [ai-zhiku.com](https://ai-zhiku.com) |
-| **妙鉴** | 命理分析站点（Next.js 全栈） | 运营中 |
+| **AI智库Agent社区** | Agent 开发者社区 | [agent.ai-zhiku.com](https://agent.ai-zhiku.com) |
 
 ## 🧩 开源
 
