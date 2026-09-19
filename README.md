@@ -7,7 +7,8 @@
 
 一个人 + 一群 AI Agent，把产品从想法做到商用。
 
-[![官网](https://img.shields.io/badge/官网-ai--zhiku.com-blue)](https://ai-zhiku.com)
+[![个人官网](https://img.shields.io/badge/个人官网-gongshuai.me-blue)](https://gongshuai.me)
+[![AI智库](https://img.shields.io/badge/AI智库-ai--zhiku.com-007ec6)](https://ai-zhiku.com)
 [![开源](https://img.shields.io/badge/开源-zhiying--skills-brightgreen)](https://github.com/zhiyingstudio/zhiying-skills)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://github.com/zhiyingstudio/zhiying-skills/blob/main/LICENSE)
 
@@ -19,8 +20,8 @@
 
 | 产品 | 说明 | 状态 |
 | --- | --- | --- |
-| **妙影 Miaoying** | AI 数字人 SaaS：声音克隆 + 形象克隆 + 文案成片全链路，Electron 桌面端 + 小程序双端 | 已商用 |
-| **智库人师** | 教师的 AI 课件工作台，Electron 桌面端，素材全本地不上云 | v1.0.x 迭代中 |
+| **智库妙影** | AI 数字人 SaaS：声音克隆 + 形象克隆 + 文案成片全链路，Electron 桌面端 + 小程序双端 | 已商用 |
+| **智库创课** | 教师的 AI 课件工作台，Electron 桌面端，素材全本地不上云 | v1.0.x 迭代中 |
 | **AI智库** | AI 行业资讯站，每日自动化同步 | [ai-zhiku.com](https://ai-zhiku.com) |
 | **妙鉴** | 命理分析站点（Next.js 全栈） | 运营中 |
 
