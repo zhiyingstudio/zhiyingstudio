@@ -19,6 +19,9 @@
 
 ## 🚀 产品矩阵
 
+> 6 款自研产品，覆盖 AI 内容生产、教育、营销与资讯场景。
+
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -117,13 +120,25 @@ Next.js 全栈自研，自管服务器 nginx + pm2 部署。
 
 <div align="center">
 
-**桌面端** · `Electron` `TypeScript` `React`
+| 层 | 技术 |
+| :--- | :--- |
+| **桌面端** | `Electron` `TypeScript` `React` |
+| **服务端** | `Python` `FastAPI` `Node.js` `SQLite` |
+| **AI 能力** | `ComfyUI` `Edge-TTS` `LLM 本地化部署` |
+| **工具链** | `ffmpeg` `Playwright` `Next.js` |
 
-**服务端** · `Python` `FastAPI` `Node.js` `SQLite`
+<br />
 
-**AI 能力** · `ComfyUI` `Edge-TTS` `LLM 本地化部署`
-
-**工具链** · `ffmpeg` `Playwright` `Next.js`
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/ffmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 </div>
 
