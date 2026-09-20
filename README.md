@@ -1,17 +1,17 @@
 <div align="center">
 
-# 宫帅 · Gong Shuai
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00B4D8&height=180&section=header&text=宫帅%20·%20Gong%20Shuai&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=AI智库%20·%20智影科技%20创始人&descAlignY=58&descSize=18" width="100%" />
 
 **独立创始人 · 全栈开发者**
-「AI智库 · 智影科技」主理人 · 前腾讯大辽网项目负责人 · 工信部认证高级 AI 工程师 ×4
+「AI智库 · 智影科技」主理人
 
-一个人 + 一群 AI Agent，把产品从想法做到商用。
+<sub>前腾讯大辽网项目负责人 · 工信部认证高级 AI 工程师 ×4</sub>
 
-[![个人官网](https://img.shields.io/badge/个人官网-gongshuai.me-blue)](https://gongshuai.me)
-[![百度百科](https://img.shields.io/badge/百度百科-宫帅-3066b8)](https://baike.baidu.com/item/%E5%AE%AB%E5%B8%85/2619183)
-[![AI智库](https://img.shields.io/badge/AI智库-ai--zhiku.com-007ec6)](https://ai-zhiku.com)
-[![开源](https://img.shields.io/badge/开源-zhiying--skills-brightgreen)](https://github.com/zhiyingstudio/zhiying-skills)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](https://github.com/zhiyingstudio/zhiying-skills/blob/main/LICENSE)
+> 一个人 + 一群 AI Agent，把产品从想法做到商用。
+
+[![个人官网](https://img.shields.io/badge/个人官网-gongshuai.me-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gongshuai.me)
+[![GitHub](https://img.shields.io/badge/GitHub-zhiyingstudio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zhiyingstudio)
+[![百度百科](https://img.shields.io/badge/百度百科-宫帅-3066b8?style=for-the-badge&logo=baidu&logoColor=white)](https://baike.baidu.com/item/%E5%AE%AB%E5%B8%85/2619183)
 
 </div>
 
@@ -19,36 +19,127 @@
 
 ## 🚀 产品矩阵
 
-| 产品 | 说明 | 链接 |
-| --- | --- | --- |
-| **智库妙影** | AI 数字人短视频创作平台：声音克隆 + 形象克隆 + 文案成片全链路，桌面端 + 小程序双端 | [my.ai-zhiku.com](https://my.ai-zhiku.com) |
-| **智库创课** | AI 驱动的课件生成工坊，Electron 桌面端，素材全本地不上云 | [ke.ai-zhiku.com](https://ke.ai-zhiku.com) |
-| **智库GEO** | AI 搜索品牌可见度监测平台 | [geo.ai-zhiku.com](https://geo.ai-zhiku.com) |
-| **智库妙鉴** | 命理分析站点（Next.js 全栈） | [mj.ai-zhiku.com](https://mj.ai-zhiku.com) |
-| **AI智库** | AI 行业资讯站，每日自动化同步 | [ai-zhiku.com](https://ai-zhiku.com) |
-| **AI智库Agent社区** | Agent 开发者社区 | [agent.ai-zhiku.com](https://agent.ai-zhiku.com) |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🧩 开源
+### 🎬 智库妙影
+**AI 数字人短视频创作平台**
 
-**[zhiying-skills](https://github.com/zhiyingstudio/zhiying-skills)** — 19 个免费 Agent 技能 + 5 个专家包，全部来自真实项目实战。
+声音克隆 + 形象克隆 + 文案成片全链路，桌面端与小程序双端覆盖。
 
-采用 [Agent Skills](https://agentskills.io) 开放标准（MIT），一份技能多处可用：
+<sub>🔗 [my.ai-zhiku.com](https://my.ai-zhiku.com) · `已商用`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 智库创课
+**AI 课件生成工坊**
+
+面向教师的智能课件生产工具，Electron 桌面端，素材全本地不上云。
+
+<sub>🔗 [ke.ai-zhiku.com](https://ke.ai-zhiku.com) · `v1.0.x`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔍 智库GEO
+**AI 搜索品牌可见度监测**
+
+追踪品牌在 AI 搜索时代的曝光表现与内容可见度。
+
+<sub>🔗 [geo.ai-zhiku.com](https://geo.ai-zhiku.com) · `运营中`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 智库妙鉴
+**命理分析平台**
+
+Next.js 全栈自研，自管服务器 nginx + pm2 部署。
+
+<sub>🔗 [mj.ai-zhiku.com](https://mj.ai-zhiku.com) · `运营中`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 AI智库
+**AI 行业资讯站**
+
+每日自动化同步行业动态，覆盖导航与快讯双栏目。
+
+<sub>🔗 [ai-zhiku.com](https://ai-zhiku.com) · `每日更新`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 AI智库 Agent 社区
+**Agent 开发者社区**
+
+聚合 Agent 生态资源、实践案例与开发者交流。
+
+<sub>🔗 [agent.ai-zhiku.com](https://agent.ai-zhiku.com) · `社区`</sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧩 开源项目
+
+<div align="center">
+
+### [zhiying-skills](https://github.com/zhiyingstudio/zhiying-skills)
+
+**19 个免费 Agent 技能 + 5 个专家包**
+
+![Skills](https://img.shields.io/badge/技能-19-success?style=flat-square)
+![Experts](https://img.shields.io/badge/专家包-5-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![Standard](https://img.shields.io/badge/标准-Agent%20Skills-blueviolet?style=flat-square)
+
+全部来自真实项目实战，采用 [Agent Skills](https://agentskills.io) 开放标准，**一份技能多处可用**：
 
 `WorkBuddy` · `Claude Code` · `Codex CLI` · `Cursor` · `GitHub Copilot` · `Gemini CLI`
 
-另有 7 个付费技能上架 [SkillHub 市场](https://skillhub.cn)（搜索「zhiying」）。
+另有 7 个付费技能上架 [SkillHub 市场](https://skillhub.cn)（搜索「zhiying」）
 
-## 🛠 日常技术栈
+</div>
 
-`Electron` `FastAPI` `Next.js` `TypeScript` `Python` `SQLite` `ComfyUI` `Edge-TTS` `ffmpeg` `Playwright`
+---
 
-## 💡 相信的事
+## 🛠 技术栈
 
-AI Agent 不是玩具，是独立开发者杠杆最长的一端。
-把重复的工作交给 Agent，把判断力留给自己。
+<div align="center">
+
+**桌面端** · `Electron` `TypeScript` `React`
+
+**服务端** · `Python` `FastAPI` `Node.js` `SQLite`
+
+**AI 能力** · `ComfyUI` `Edge-TTS` `LLM 本地化部署`
+
+**工具链** · `ffmpeg` `Playwright` `Next.js`
+
+</div>
 
 ---
 
 <div align="center">
-<sub>从大连远程办公 · 产品问题欢迎到对应仓库提 Issue</sub>
+
+### 💡 相信的事
+
+**AI Agent 不是玩具，是独立开发者杠杆最长的一端。**
+把重复的工作交给 Agent，把判断力留给自己。
+
+<sub>📍 大连 · 远程办公 &nbsp;|&nbsp; 产品问题欢迎到对应仓库提 Issue</sub>
+
+<br /><br />
+
+*Made with AI Agents, shipped with judgment.*
+
 </div>
