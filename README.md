@@ -19,7 +19,7 @@
 
 ## 🚀 产品矩阵
 
-> 6 款自研产品，覆盖 AI 内容生产、教育、营销与资讯场景。
+> 7 款自研产品，覆盖 AI 内容生产、教育、营销与资讯场景。
 
 
 <table>
@@ -86,6 +86,23 @@ Next.js 全栈自研，自管服务器 nginx + pm2 部署。
 聚合 Agent 生态资源、实践案例与开发者交流。
 
 <sub>🔗 [agent.ai-zhiku.com](https://agent.ai-zhiku.com) · `社区`</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥 智影新媒体OS
+**AI 内容生产一站式工作台**
+
+AI 选题 + 写作 + 公众号级排版 + 多平台分发 + 数据复盘，一个桌面应用跑完整条内容流水线。
+
+<sub>🔗 [work.ai-zhiku.com](https://work.ai-zhiku.com) · `桌面专业版`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
 
 </td>
 </tr>
